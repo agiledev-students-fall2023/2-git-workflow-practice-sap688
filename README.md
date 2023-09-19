@@ -1,8 +1,5 @@
-# Git Practice
-A simple project to practice a few git/github workflows.  Replace the contents of this file with the contents indicated in the [instructions](./instructions.md).
+# [Vision Pro accessibility: Great potential, but many unknowns](https://sixcolors.com/post/2023/06/vision-pro-accessibility-great-potential-but-many-unknowns/)
 
 
-TESTING !@#123 
-test test 
 
-trying again 
+As someone who has been studying accessibility and hoping to pursue a career at the intersection of accessibility and technology, I am always interested in the accessibility features of new technologies as they are released. Apple has been considered somewhat of the “gold-standard” when it comes to accessible tech, so there has been a lot of discussion around the recently announced Vision Pro headset. What is so great to me about Apple’s Vision Pro is that it will not simply meet the bare minimum when it comes to accessibility, with those features being slapped on at the end, simply to make sure the requirements are met. Of what is known about the Vision Pro so far, not only are there built-in accessibility features, but the device itself can provide more accessibility in daily living. For example, the eye tracking can be used by someone who is unable to use their arms to control the device, making the Vision Pro not only accessible, but also an assistive technology itself. However, there is still a lot that is unclear in regards to the accessibility of the Vision Pro, especially regarding 3rd party apps. Overall, however, I am very excited by the potential of the accessibility of the Vision Pro. 
